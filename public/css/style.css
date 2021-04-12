@@ -1,0 +1,50 @@
+* {
+    margin: auto;
+}
+
+.hide {
+    display: none;
+}
+
+footer,
+header {
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: orange;
+}
+
+i {
+    color: rgb(236, 126, 22);
+    font-size: 25px;
+    padding: 2%;
+}
+
+h1 {
+    padding: 5%;
+}
+
+.lienBleu {
+    text-decoration: none;
+    color: orangered;
+}
+
+.lienBleu:hover {
+    color: orange;
+}
+
+.btn {
+    background-color: orangered;
+}
+
+.btnOui:hover {
+    background-color: rgb(130, 209, 10);
+    color: white;
+}
+
+.btnNon:hover {
+    background-color: rgb(255, 0, 0);
+    color: orange;
+}
